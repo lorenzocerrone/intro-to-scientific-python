@@ -2,8 +2,8 @@
 
 * Introduction [slides](https://docs.google.com/presentation/d/1z4lad4-pvLIN9mDlBzrgP8ECNHYgkXbr0ZcQrcx7Uu4/edit?usp=sharing) 
 * To follow the tutorial without Python installed: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://lorenzocerrone.github.io/intro-to-scientific-python)
-* To follow the tutorial on Colab (requires google account)
-[basic_python](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/basic_python.ipynb)
+* Or you can follow the tutorial on Colab (requires google account)
+[basic_python](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/basic_python.ipynb),
 [scientific_stack](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/scientific_stack.ipynb)
 
 ## Installing Python using anaconda
