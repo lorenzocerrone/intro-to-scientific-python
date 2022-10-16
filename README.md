@@ -74,7 +74,7 @@ pip install notebook
 install the package. Then recreate the environment from scratch, including all the new packages. 
 - If you find conda slow, then install [mamba](https://github.com/mamba-org/mamba) is like conda (same commands and syntax) but much faster. 
 
-## Advanced usage
+## Usefully command
 - `conda deactivate`: Deactivate the current environment and set it back to `base`
 - `conda info --envs`: List all existing environments  
 - `conda list`: Returns a list of all packages installed in the current environment 
