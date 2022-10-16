@@ -4,7 +4,9 @@
 * To follow the tutorial without Python installed: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://lorenzocerrone.github.io/intro-to-scientific-python)
 * Or you can follow the tutorial on Colab (requires google account)
 [basic_python](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/basic_python.ipynb),
-[scientific_stack](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/scientific_stack.ipynb)
+[scientific_stack](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/scientific_stack.ipynb)[^1].
+
+[^1]: the f'{a=}' sintax is a moder introduction on python and will fail on colab.
 
 ## Installing Python using anaconda
 For all OS, you can download the anaconda installer from [anaconda](https://www.anaconda.com/products/individual).
