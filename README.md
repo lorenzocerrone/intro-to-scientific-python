@@ -28,9 +28,14 @@ executable `.exe` for your Windows version and follow the installation instructi
 ### Check your installation
 On Linux (Mac), source your `.bashrc` (or  open and close the terminal), and on Windows, open the `Conda Prompt` from 
 the applications. 
-Then type:
+On Linux (Mac) type:
 ```bash
-which Python
+which python
+```
+the result should be something like `~/miniconda3/bin/python`
+On Windows type:
+```
+where python
 ```
 
 ### Create a new environment
@@ -74,7 +79,7 @@ pip install notebook
 install the package. Then recreate the environment from scratch, including all the new packages. 
 - If you find conda slow, then install [mamba](https://github.com/mamba-org/mamba) is like conda (same commands and syntax) but much faster. 
 
-## Usefully command
+## Useful commands
 - `conda deactivate`: Deactivate the current environment and set it back to `base`
 - `conda info --envs`: List all existing environments  
 - `conda list`: Returns a list of all packages installed in the current environment 
