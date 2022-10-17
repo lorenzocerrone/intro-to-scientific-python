@@ -6,7 +6,7 @@
 [basic_python](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/basic_python.ipynb),
 [scientific_stack](https://colab.research.google.com/github/lorenzocerrone/intro-to-scientific-python/blob/main/notebooks/scientific_stack.ipynb)[^1].
 
-[^1]: the f'{a=}' sintax is a moder introduction on python and will fail on colab.
+[^1]: the f'{a=}' sintax is a modern introduction to python and will fail on colab.
 
 ## Installing Python using anaconda
 For all OS, you can download the anaconda installer from [anaconda](https://www.anaconda.com/products/individual).
