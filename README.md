@@ -11,6 +11,7 @@
 ## Installing Python using anaconda
 For all OS, you can download the anaconda installer from [anaconda](https://www.anaconda.com/products/individual).
 But, to reduce the installation size (and avoid bloatware), we suggest using Miniconda.
+
 ### Installation on Linux (Mac)
 To download Miniconda open a terminal and type
 ```bash
